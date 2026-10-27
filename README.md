@@ -89,6 +89,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
 
+<p align="center">
+  <img src="https://i.ibb.co.com/gK3Z0L6/image-43ff1521.jpg" alt="B.J. Habibie" width="60%" />
+  <br/>
+  <sub>Credits: B.J. Habibie</sub>
+</p>
+
 ## 📫 Contact
 <p align="center">
   <img src="https://img.shields.io/badge/Socials-Coming_Soon-a371f7?style=for-the-badge" alt="Coming soon" />
