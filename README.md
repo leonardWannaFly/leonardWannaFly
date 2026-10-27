@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Leonard&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Luau%20%7C%20Java%20%7C%20Python%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Aarne&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Luau%20%7C%20Java%20%7C%20Python%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Leonard+%F0%9F%91%8B;Roblox+Script+%26+Bot+Maker;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aarne+%F0%9F%91%8B;Roblox+Script+%26+Bot+Maker;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/leonardWannaFly">
-    <img src="https://komarev.com/ghpvc/?username=leonardWannaFly&label=Profile%20views&color=a371f7&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/x2arne">
+    <img src="https://komarev.com/ghpvc/?username=x2arne&label=Profile%20views&color=a371f7&style=flat-square" alt="Profile views" />
   </a>
 </p>
 
@@ -21,16 +21,16 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/leonardWannaFly">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardWannaFly&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="GitHub Stats" />
+  <a href="https://github.com/x2arne">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=x2arne&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=leonardWannaFly&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=x2arne&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=leonardWannaFly&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=x2arne&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardWannaFly&theme=nightowl&radius=10" alt="Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=x2arne&theme=nightowl&radius=10" alt="Activity Graph" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
@@ -46,8 +46,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/leonardWannaFly">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leonardWannaFly&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/x2arne">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=x2arne&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
