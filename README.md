@@ -13,6 +13,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
 
 ## 🚀 About Me
+```python
+class Aarne:
+    def __init__(self):
+        self.age = 18
+        self.education = "Teknik Informatika"
+        self.languages = ["Luau", "Java", "Python"]
+        self.focus = ["Roblox Scripts", "Discord Bots"]
+```
+
 - 🎓 Informatics Engineering (Teknik Informatika) Graduate
 - 🔭 Currently working on **...**
 - 🌱 Currently learning **...**
@@ -66,6 +75,11 @@
   <a href="https://github.com/x2arne">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=x2arne&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/x2arne/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/x2arne/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
 </p>
 
 <p align="center">
