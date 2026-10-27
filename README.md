@@ -22,12 +22,8 @@
 
 ## 📌 Featured Projects
 <p align="center">
-  <a href="https://github.com/x2arne/PROJECT_1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=x2arne&repo=PROJECT_1&theme=nightowl&border_radius=10" /></a>
+  <a href="https://github.com/x2arne/loader"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=x2arne&repo=PROJECT_1&theme=nightowl&border_radius=10" /></a>
   <a href="https://github.com/x2arne/PROJECT_2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=x2arne&repo=PROJECT_2&theme=nightowl&border_radius=10" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/x2arne/PROJECT_3"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=x2arne&repo=PROJECT_3&theme=nightowl&border_radius=10" /></a>
-  <a href="https://github.com/x2arne/PROJECT_4"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=x2arne&repo=PROJECT_4&theme=nightowl&border_radius=10" /></a>
 </p>
 
 ## 📊 GitHub Stats & Trophies
