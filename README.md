@@ -13,11 +13,22 @@
 <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
 
 ## 🚀 About Me
+- 🎓 Informatics Engineering (Teknik Informatika) Graduate
 - 🔭 Currently working on **...**
 - 🌱 Currently learning **...**
 - 👯 Open to collaborate on **...**
-- 💬 Ask me about **Luau, Java, Python**
+- 💬 Ask me about **Luau, Java, Python, Discord Bots**
 - ⚡ Fun fact: **...**
+
+## 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/x2arne/PROJECT_1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=x2arne&repo=PROJECT_1&theme=nightowl&border_radius=10" /></a>
+  <a href="https://github.com/x2arne/PROJECT_2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=x2arne&repo=PROJECT_2&theme=nightowl&border_radius=10" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/x2arne/PROJECT_3"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=x2arne&repo=PROJECT_3&theme=nightowl&border_radius=10" /></a>
+  <a href="https://github.com/x2arne/PROJECT_4"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=x2arne&repo=PROJECT_4&theme=nightowl&border_radius=10" /></a>
+</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -42,7 +53,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Luau" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="Discord Bot" width="40" />
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
 </p>
 
 <p align="center">
@@ -55,10 +76,26 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
+## ⏱️ Coding Time
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=x2arne&theme=nightowl&border_radius=10&layout=compact" alt="WakaTime" />
+</p>
+
+## 🎧 Now Playing
+<p align="center">
+  <a href="https://github.com/kittinunf/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinunf.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify" />
+  </a>
+</p>
+
+## 💭 Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
 ## 📫 Contact
 <p align="center">
-  <a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Socials-Coming_Soon-a371f7?style=for-the-badge" alt="Coming soon" />
 </p>
 
 <div align="center">
